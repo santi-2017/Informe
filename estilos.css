@@ -1,0 +1,26 @@
+#header{
+  text-align: center;
+  color: rgb(0, 116, 252);
+  margin-bottom: 10px;
+}
+
+
+.parrafo{
+  font-family: helvetica;
+  font-style: normal;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  color: black;
+  font-weight: 600;
+  background-color:rgba(5, 121, 241, 0.44);
+  border: 1px solid white;
+  margin-top: 5px;
+  padding: 5px;
+}
+
+h2{
+  text-align: center;
+  color: rgb(0, 116, 252);
+  text-transform: uppercase;
+}
